@@ -7,7 +7,7 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 
 `themer` takes a set of colors and generates [editor themes](#editorsides), [terminal themes](#terminals), [themes for other apps](#other-apps), and [desktop wallpapers](#wallpapers).
 
-![visual description]("https://drive.google.com/file/d/1dA0aBAxv7RES01_1jijj8H_4jtMXrhbC/view?usp=sharing")
+![Next Step Estimated Time Total Steps (1)](https://github.com/FieryDeveloper/Animal-Intrusion-Detection/assets/96623227/5a703e33-ecd0-4540-9215-3d10b1ce858c)
 
 ## Table of contents
 
