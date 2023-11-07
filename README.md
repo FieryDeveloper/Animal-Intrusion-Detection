@@ -8,7 +8,7 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 #  Representation of Display Panel using HCI Principle.
 
 <div align="center">
-  <img src="" width="500" height="500">
+  <img src="Next Step Estimated Time Total Steps (1).png" width="500" height="500">
 </div>
 
 
