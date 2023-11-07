@@ -382,6 +382,25 @@ The training accuracy and validation accuracy of our ResNet50 Model are shown in
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure13_page-0001.jpg" width="300" height="auto">
 </div>
 As observable in confusion matrix above, the ResNet50 pre-trained model correctly identified 457 out of 487 pictures of cane. This is a significant improvement on the proposed CNN model as it gives us an accuracy of approximately 93.53%. In the Confusion Matrix of our ResNet50 model, it is identifiable that there have been very few misidentifications of the animals and hence this model has worked its way to much better results.
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure12a_page-0001.jpg" width="300" height="auto">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure12b_page-0001.jpg" width="300" height="auto">
+</div>
+# EfficientNetB7 Results
+Our Model has achieved an accuracy of d an accuracy of 98.52%. Observe the trainiing accuracy and loss before fine-tuning in Fig. below. Observe the training accuracy and loss after fine-tuning in fig below. In the EfficientNetB7 model proposed a batch size of 32 was used along with epochs set to 25. The input shape was 224 x 224 x 3, and the output layer comprises 10 nodes, tailored to accommodate the classification of 10 distinct classes. These hyperparameters have been thoughtfully selected to achieve an optimal balance between model performance and computational efficiency.
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure14a_page-0001.jpg" width="300" height="auto">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure14b_page-0001.jpg" width="300" height="auto">
+</div>
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure15a_page-0001.jpg" width="300" height="auto">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure15b_page-0001.jpg" width="300" height="auto">
+</div>
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure16_page-0001.jpg" width="300" height="auto">
+</div>
+As observable in confusion Matrix, our proposed model of EfficientNetB7 correctly identifies 363 out of 367 pictures of cane which amounts to approximately 99% accuracy. Furthermore, it identifies 235 out of 236 pictures of gallina representing 99.6% accuracy. Thus, we can notice a huge improvement from our previous CNN and ResNet models. As visible in the confusion matrix, there are very limited misrepresentations by the EfficientNetB7 model
+
 
 ### Wallpapers
 
