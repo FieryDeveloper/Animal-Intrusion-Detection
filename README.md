@@ -378,7 +378,7 @@ The training accuracy and validation accuracy of our ResNet50 Model are shown in
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure12a_page-0001.jpg" width="300" height="auto">
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure12b_page-0001.jpg" width="300" height="auto">
 </div>
-<div align="center>
+<div align="center">
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure13_page-0001.jpg" width="300" height="auto">
 </div>
 As observable in confusion matrix above, the ResNet50 pre-trained model correctly identified 457 out of 487 pictures of cane. This is a significant improvement on the proposed CNN model as it gives us an accuracy of approximately 93.53%. In the Confusion Matrix of our ResNet50 model, it is identifiable that there have been very few misidentifications of the animals and hence this model has worked its way to much better results.
