@@ -403,7 +403,12 @@ Our Model has achieved an accuracy of d an accuracy of 98.52%. Observe the train
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure16_page-0001.jpg" width="300" height="auto">
 </div>
 As observable in confusion Matrix, our proposed model of EfficientNetB7 correctly identifies 363 out of 367 pictures of cane which amounts to approximately 99% accuracy. Furthermore, it identifies 235 out of 236 pictures of gallina representing 99.6% accuracy. Thus, we can notice a huge improvement from our previous CNN and ResNet models. As visible in the confusion matrix, there are very limited misrepresentations by the EfficientNetB7 model.
+<br><br>
+Hence, we can observe the comparison between the models:-
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/model.png" width="300" height="auto">
 
+</div>
 
 ### Wallpapers
 
