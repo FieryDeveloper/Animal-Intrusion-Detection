@@ -11,7 +11,7 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 
 ## Table of contents
 
-- [Getting started](#getting-started)
+- [Overview](#getting-started)
 - [CLI documentation](#cli-documentation)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -41,21 +41,7 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 
 ## Getting started
 
-There are a few different ways to level up your development setup with `themer`:
-
-1. **Web-based graphical user interface.** `themer` has an official progressive web app located at [themer.dev](https://themer.dev).
-2. **Command-line interface.** `themer` can be used to generate themes on the CLI, see the [CLI docs](#cli-documentation) below.
-3. **Application programming interface.** `themer` exposes a JavaScript API (complete with TypeScript type definitions) for programmatic use; see the [API docs](#api-documentation) below.
-
-Feature comparison:
-
-|                               | Web UI         | CLI/API  |
-| ----------------------------- | -------------- | -------- |
-| Instant preview               | ✅             | ❌       |
-| Premium color sets            | ✅             | ❌       |
-| Supported color format        | Any CSS format | Hex only |
-| Wallpaper output format       | PNG + SVG      | SVG only |
-| Seamless dotfiles integration | ❌             | ✅       |
+Recently, a new alarming problem has emerged, particularly in residential areas,where dogs and other animals have inflicted substantial harm on children, the elderly, and others arising from stray animals. The severity of such incidents has escalated, leading to serious injuries and even fatalities. In India, these incidents have occurred within the confined environment of residential lifts. In order to address this pressing issue, this paper proposes an innovative solution: implementing an image classification-based identification system. In this study, ten distinct animal classes are classified using the Animals-10 dataset. In order to implement this idea, Convolutional Neural Networks (CNN) and pre-trained architectures like ResNet50 and EfficientNetB7 have been used. Improved results were achieved by fine-tuning these models. The metric used for evaluation was accuracy, ensuring the highest level of improvement. This work achieved an accuracy of 81.65% using CNN and an accuracy of 93.53% using ResNet50. However, we achieved the best results using the EfficientNetB7 model and by fine-tuning it further. The maximum test accuracy obtained is 98.52%. To demonstrate the effectiveness of the work, a comparative study with the previous work is included.
 
 ## CLI documentation
 
