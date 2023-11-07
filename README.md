@@ -6,8 +6,9 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 # themer ![GitHub Workflow Status (main branch)].
 
 `themer` takes a set of colors and generates [editor themes](#editorsides), [terminal themes](#terminals), [themes for other apps](#other-apps), and [desktop wallpapers](#wallpapers).
-
-<img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/assets/96623227/5a703e33-ecd0-4540-9215-3d10b1ce858c" width="400" height="400" align="center">
+<div align="center">
+  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/assets/96623227/5a703e33-ecd0-4540-9215-3d10b1ce858c" width="250" height="250">
+</div>
 
 
 ## Table of contents
