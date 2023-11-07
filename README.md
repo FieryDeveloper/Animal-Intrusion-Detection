@@ -10,7 +10,7 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 #  Representation of Display Panel using HCI Principle.
 
 <div align="center">
-  <img src="HCILift.png" width="400" height="400">
+  <img src="HCILift.jpg" width="400" height="400">
 </div>
 
 
