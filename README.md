@@ -361,7 +361,7 @@ export default template;
 - [`xresources`](https://github.com/themerdev/themer/tree/main/cli/src/template/xresources.ts)
 # Results
 To enhance elevator safety for pets, we employed CNN, ResNet50, and EfficientNetB7 architectures for animal classification. We optimized resource usage with diverse training epochs and early stopping. Our evaluation focused on accuracy, precision, recall, and F1 score, employing a range of training epochs and resource-saving techniques.
-## Convolutional Neural Network (CNN) Result
+## Convolutional Neural Network (CNN) Results
 The Training Accuracy and Validation Accuracy of our CNN model are shown in figure given below.The CNN model achieved a maximum training accuracy of 99.61% and a maximum validation accuracy of 81.65%. The training loss was 0.0152, while the validation loss was 0.7316. These results indicate that the CNN model can classify animals to some extent. To assess its performance, various metrics were used, and the dataset was split into a 70:20:10 ratio for training, validation, and testing, respectively.
 <div align="center">
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure10a_page-0001.jpg?raw=true" width="300" height="auto">
@@ -371,6 +371,9 @@ The confusion matrix is presented in Fig below. The confusion matrix shows how w
 <div align="center">
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure11_page-0001.jpg" width="300" height="auto">
 </div>
+
+## ResNet 50 Results
+The training accuracy and validation accuracy of our ResNet50 Model are shown in Fig. below . It can be noticed that the highest training accuracy we achieved was 93.86 and the highest validation accuracy obtained was 93.53. These results show that our ResNet50 model can classify animals better than our CNN model.ResNet50, a powerful deep learning architecture, has shown remarkable performance in various computer vision tasks. Its depth and skip connections enable effective learning of complex patterns and contribute to better feature representation, making it anexcellent choice for image classification tasks. The images were resized to 224 x 224 and rescaled to tranform each pixel value to the range of [0-1].
 
 
 
