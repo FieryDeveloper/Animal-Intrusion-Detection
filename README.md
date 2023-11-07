@@ -1,7 +1,9 @@
 # Animal-Intrusion-Detection
 We address the alarming rise of animal-inflicted harm in residential areas, proposing an image classification-based identification system for enhanced safety.  The research highlights the urgent need for improved safety measures, especially in residential lifts, to protect children and the elderly from stray animal attacks.
  
-
+<div style="width: 100%;">
+  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 #  Representation of Display Panel using HCI Principle.
 
