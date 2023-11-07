@@ -14,25 +14,7 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 - [Overview](#Overview)
 - [Contributions](#Contributions)
 - [Literature Review](#literaturereview)
-  - [Installation](#installation-1)
-  - [Interface](#interface)
-  - [Create custom `ColorSet`s](#create-custom-colorsets)
-    - [Color mappings](#color-mappings)
-  - [Create custom `Template`s](#create-custom-templates)
-- [Themer color sets](#themer-color-sets)
-  - [Premium color sets](#premium-color-sets)
-  - [Original color sets](#original-color-sets)
-  - [Ports from third-party themes](#ports-from-third-party-themes)
-- [Themer templates](#themer-templates)
-  - [Terminals](#terminals)
-  - [Editors/IDEs](#editorsides)
-  - [Other apps](#other-apps)
-  - [Wallpapers](#wallpapers)
-- [Prior art](#prior-art)
-- [Contributing](#contributing)
-- [Next steps](#next-steps)
-  - [Join the community](#join-the-community)
-  - [Support `themer`](#support-themer)
+- [Connect with me!](#connectwithme)
 
 ## Overview
 Recently, a new alarming problem has emerged, particularly in residential areas,where dogs and other animals have inflicted substantial harm on children, the elderly, and others arising from stray animals. The severity of such incidents has escalated, leading to serious injuries and even fatalities. In India, these incidents have occurred within the confined environment of residential lifts. In order to address this pressing issue, this paper proposes an innovative solution: implementing an image classification-based identification system. In this study, ten distinct animal classes are classified using the Animals-10 dataset. In order to implement this idea, Convolutional Neural Networks (CNN) and pre-trained architectures like ResNet50 and EfficientNetB7 have been used. Improved results were achieved by fine-tuning these models. The metric used for evaluation was accuracy, ensuring the highest level of improvement. This work achieved an accuracy of 81.65% using CNN and an accuracy of 93.53% using ResNet50. However, we achieved the best results using the EfficientNetB7 model and by fine-tuning it further. The maximum test accuracy obtained is 98.52%. To demonstrate the effectiveness of the work, a comparative study with the previous work is included.
@@ -65,5 +47,5 @@ of the work.
 ### Connect with me!
 
 - ⭐️ Star [`FieryDeveloper` on GitHub]([https://github.com/themerdev/themer](https://github.com/FieryDeveloper))
-- 📧 [Mail me](amoghag2003@gmail.com)
+- 📧 [Mail me:amoghag2003@gmail.com]
 
