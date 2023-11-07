@@ -12,7 +12,7 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 ## Table of contents
 
 - [Overview](#Overview)
-- [CLI documentation](#Contributions)
+- [Contributions](#Contributions)
 - [Literature Review](#literaturereview)
   - [Installation](#installation-1)
   - [Interface](#interface)
@@ -57,7 +57,7 @@ of the work.
 ### Literature Review
 
 <div align="center">
-  <img src="Literaurereview.png" width="400" alt="Literaturereview" />
+  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/LiteratureReview.png" width="400" alt="Literaturereview" />
 </div>
 
 ### Usage
