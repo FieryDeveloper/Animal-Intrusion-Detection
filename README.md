@@ -170,7 +170,7 @@ As observable in confusion Matrix, our proposed model of EfficientNetB7 correctl
 <br><br>
 Hence, we can observe the comparison between the models:-
 <div align="center">
- <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/model.png" width="500" height="300" height="auto">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/model.png" width="500" height="200" height="auto">
 
 </div>
 ### Connect with me!
