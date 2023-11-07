@@ -10,7 +10,7 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 
 `themer` takes a set of colors and generates [editor themes](#editorsides), [terminal themes](#terminals), [themes for other apps](#other-apps), and [desktop wallpapers](#wallpapers).
 
-![visual description]("C:\Users\am114\Downloads\Next Step Estimated Time Total Steps (1).png")
+![visual description]("https://drive.google.com/file/d/1dA0aBAxv7RES01_1jijj8H_4jtMXrhbC/view?usp=sharing")
 
 ## Table of contents
 
