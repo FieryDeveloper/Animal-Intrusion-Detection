@@ -70,7 +70,16 @@ differentiates various features from the input image using parameters such as fi
 kernel size, padding, strides, and more.
 
 <div align="center">
-  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/methodology.png" width="400" alt="Literaturereview" />
+  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/CNN.png" width="400" alt="Literaturereview" />
+</div>
+
+
+Fine Tuning is a technique that involves modifying or fine-tuning the pretrained model to produce better results[33]. This method enables the freezing of some
+layers from the given model while adjusting the weights of the remaining layers to better suit the new task at hand. 
+
+
+<div align="center">
+  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/Fine-Tuning.png" width="400" alt="Literaturereview" />
 </div>
 
 
@@ -87,7 +96,7 @@ has become a foundational building block for many state-of-the-art deep learning
 models in computer vision.
 
 <div align="center">
-  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/methodology.png" width="400" alt="Literaturereview" />
+  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/ResNet.png" width="400" alt="Literaturereview" />
 </div>
 
 
@@ -107,7 +116,7 @@ and identify faces. This adaptability, together with shorter training times than
 larger structures, improves the effectiveness of research and development. Furthermore, it supports hardware acceleration devices like GPUs and TPUs, guaranteeing rapid inference without compromising accuracy.
 
 <div align="center">
-  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/methodology.png" width="400" alt="Literaturereview" />
+  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/EfficientNet.png" width="400" alt="Literaturereview" />
 </div>
 
 
