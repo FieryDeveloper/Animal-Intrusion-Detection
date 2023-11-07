@@ -2,7 +2,7 @@
 We address the alarming rise of animal-inflicted harm in residential areas, proposing an image classification-based identification system for enhanced safety.  The research highlights the urgent need for improved safety measures, especially in residential lifts, to protect children and the elderly from stray animal attacks.
 
  <div align="center">
-  <img src="cctvsvg.svg" width="400" alt="CCTV SVG" />
+  <img src="cctvsvg.svg" width="300" alt="CCTV SVG" />
 </div>
 
 
@@ -10,7 +10,7 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 #  Representation of Display Panel using HCI Principle.
 
 <div align="center">
-  <img src="Next Step Estimated Time Total Steps (1).png" width="500" height="500">
+  <img src="Next Step Estimated Time Total Steps (1).png" width="400" height="400">
 </div>
 
 
