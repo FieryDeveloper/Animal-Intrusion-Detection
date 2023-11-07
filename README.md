@@ -367,6 +367,13 @@ The Training Accuracy and Validation Accuracy of our CNN model are shown in figu
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure10a_page-0001.jpg?raw=true" width="300" height="auto">
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure10b_page-0001.jpg" width="300" height="auto">
 </div>
+The confusion matrix is presented in Fig below. The confusion matrix shows how well our models perform in classifying data across ten different animal classes. In order to analyse the model’s efficacy, it offers a thorough perspective of true positives, true negatives, false positives, and false negatives.It illustrates that the proposed CNN model accurately identified 830 pictures of cane out of 969 pictures of cane giving us an accuracy of approximately 86% in the class of cane.
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure11_page-0001.jpg" width="300" height="auto">
+</div>
+
+
+
 ### Wallpapers
 
 See [`themer`'s Web UI](https://themer.dev) for wallpaper previews.
