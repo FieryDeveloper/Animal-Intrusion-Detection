@@ -78,7 +78,7 @@ kernel size, padding, strides, and more.
 </div>
 
 
-Fine Tuning is a technique that involves modifying or fine-tuning the pretrained model to produce better results[33]. This method enables the freezing of some
+Fine Tuning is a technique that involves modifying or fine-tuning the pretrained model to produce better results. This method enables the freezing of some
 layers from the given model while adjusting the weights of the remaining layers to better suit the new task at hand. 
 
 
@@ -109,7 +109,7 @@ models in computer vision.
 
 The EfficientNet scaling method uniformly adjusts network width, depth,
 and resolution with a set of parameters, in contrast to standard practice, which
-scales these components arbitrarily [42]. The compound coefficient ”phi” is utilised
+scales these components arbitrarily. The compound coefficient ”phi” is utilised
 by EfficientNet to uni-systematically scale network depth, resolution, and width. The
 rationale behind the scaling approach is that if the input image is larger, then for the
 network to have a larger receptive field and more channels for capture, more layers
