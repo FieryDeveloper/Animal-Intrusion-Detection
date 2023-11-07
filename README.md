@@ -386,6 +386,7 @@ As observable in confusion matrix above, the ResNet50 pre-trained model correctl
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure12a_page-0001.jpg" width="300" height="auto">
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure12b_page-0001.jpg" width="300" height="auto">
 </div>
+
 # EfficientNetB7 Results
 Our Model has achieved an accuracy of d an accuracy of 98.52%. Observe the trainiing accuracy and loss before fine-tuning in Fig. below. Observe the training accuracy and loss after fine-tuning in fig below. In the EfficientNetB7 model proposed a batch size of 32 was used along with epochs set to 25. The input shape was 224 x 224 x 3, and the output layer comprises 10 nodes, tailored to accommodate the classification of 10 distinct classes. These hyperparameters have been thoughtfully selected to achieve an optimal balance between model performance and computational efficiency.<br>
 <div align="center">
@@ -397,6 +398,7 @@ Our Model has achieved an accuracy of d an accuracy of 98.52%. Observe the train
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure15a_page-0001.jpg" width="300" height="auto">
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure15b_page-0001.jpg" width="300" height="auto">
 </div>
+<br>
 <div align="center">
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure16_page-0001.jpg" width="300" height="auto">
 </div>
