@@ -359,7 +359,8 @@ export default template;
 - [`slack`](https://github.com/themerdev/themer/tree/main/cli/src/template/slack.ts)
 - [`wox`](https://github.com/themerdev/themer/tree/main/cli/src/template/wox.ts)
 - [`xresources`](https://github.com/themerdev/themer/tree/main/cli/src/template/xresources.ts)
-
+### Results
+To enhance elevator safety for pets, we employed CNN, ResNet50, and EfficientNetB7 architectures for animal classification. We optimized resource usage with diverse training epochs and early stopping. Our evaluation focused on accuracy, precision, recall, and F1 score, employing a range of training epochs and resource-saving techniques.
 ### Wallpapers
 
 See [`themer`'s Web UI](https://themer.dev) for wallpaper previews.
