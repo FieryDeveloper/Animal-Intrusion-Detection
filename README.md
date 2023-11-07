@@ -8,7 +8,7 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 #  Representation of Display Panel using HCI Principle.
 
 <div align="center">
-  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/Next%20Step%20Estimated%20Time%20Total%20Steps%20(1).png" width="500" height="500">
+  <img src="" width="500" height="500">
 </div>
 
 
