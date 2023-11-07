@@ -6,11 +6,11 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 </div>
 
 
-# themer ![GitHub Workflow Status (main branch)](https://img.shields.io/github/actions/workflow/status/themerdev/themer/main.yml?branch=main) [![Follow on Mastodon]("C:\Users\am114\Downloads\Next Step Estimated Time Total Steps (1).png")](https://twitter.com/intent/user?screen_name=themerdev) [![Join the newsletter](https://img.shields.io/badge/newsletter-join-brightgreen)](https://themer.dev/join)
+# themer ![GitHub Workflow Status (main branch)].
 
 `themer` takes a set of colors and generates [editor themes](#editorsides), [terminal themes](#terminals), [themes for other apps](#other-apps), and [desktop wallpapers](#wallpapers).
 
-![visual description](https://cdn.jsdelivr.net/gh/themerdev/themer@a4ad55a9d664d474485b2cc167ef41ec8ff1b1d7/assets/themer-description.png)
+![visual description]("C:\Users\am114\Downloads\Next Step Estimated Time Total Steps (1).png")
 
 ## Table of contents
 
