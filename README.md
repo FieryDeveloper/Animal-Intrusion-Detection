@@ -20,6 +20,10 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 - [Contributions](#Contributions)
 - [Literature Review](#literaturereview)
 - [Methodology](#methodology)
+  -[CNN](#cnn)
+  -[ResNet](#resnet) 
+  -[EfficientNet](#efficientnet) 
+
 - [Connect with me!](#connectwithme)
 
 
@@ -54,7 +58,57 @@ of the work.
   <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/methodology.png" width="400" alt="Literaturereview" />
 </div>
 
+#### CNN
 
+Convolutional neural networks (CNNs) are commonly employed in solving deep
+learning problems like object detection, image classification, and text recognition, as
+well as other computer vision-related tasks. For image classification, CNNs have been
+utilized for several years. They use a system composed of a multi-layer perceptron that
+reduces processing requirements. The input layer allows for the use of various images
+as input. The convolutional layer is the core of CNN’s architecture, which extracts and
+differentiates various features from the input image using parameters such as filters,
+kernel size, padding, strides, and more.
+
+<div align="center">
+  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/methodology.png" width="400" alt="Literaturereview" />
+</div>
+
+
+#### ResNet
+
+By introducing skip connections, ResNet enables the gradient to flow more easily
+through the network during backpropagation. This facilitates the training of very deep
+networks with hundreds or even thousands of layers. Additionally, the skip connections
+enable the network to learn the identity mapping if it is optimal, which can be useful
+for preserving low-level features in the input.
+The ResNet architecture has shown remarkable success in various computer vision
+tasks, such as image classification, object detection, and semantic segmentation. It
+has become a foundational building block for many state-of-the-art deep learning
+models in computer vision.
+
+<div align="center">
+  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/methodology.png" width="400" alt="Literaturereview" />
+</div>
+
+
+
+#### EfficientNet
+
+The EfficientNet scaling method uniformly adjusts network width, depth,
+and resolution with a set of parameters, in contrast to standard practice, which
+scales these components arbitrarily [42]. The compound coefficient ”phi” is utilised
+by EfficientNet to uni-systematically scale network depth, resolution, and width. The
+rationale behind the scaling approach is that if the input image is larger, then for the
+network to have a larger receptive field and more channels for capture, more layers
+are required. In the bigger image, there are more granular patterns.
+EfficientNetB7 stands out for its versatility; in addition to being outstanding in image
+classification, it also has the capacity to detect objects, segment data semantically,
+and identify faces. This adaptability, together with shorter training times than with
+larger structures, improves the effectiveness of research and development. Furthermore, it supports hardware acceleration devices like GPUs and TPUs, guaranteeing rapid inference without compromising accuracy.
+
+<div align="center">
+  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/methodology.png" width="400" alt="Literaturereview" />
+</div>
 
 
 ### Connect with me!
