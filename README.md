@@ -12,13 +12,8 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 ## Table of contents
 
 - [Overview](#Overview)
-- [CLI documentation](#Contributions of Work)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Example workflow: dotfiles integration](#example-workflow-dotfiles-integration)
-  - [Example workflow: npx](#example-workflow-npx)
-  - [Example workflow: using base16 schemes with Themer](#example-workflow-using-base16-schemes-with-themer)
-- [API documentation](#api-documentation)
+- [CLI documentation](#Contributions)
+- [Literature Review](#literaturereview)
   - [Installation](#installation-1)
   - [Interface](#interface)
   - [Create custom `ColorSet`s](#create-custom-colorsets)
@@ -42,7 +37,7 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 ## Overview
 Recently, a new alarming problem has emerged, particularly in residential areas,where dogs and other animals have inflicted substantial harm on children, the elderly, and others arising from stray animals. The severity of such incidents has escalated, leading to serious injuries and even fatalities. In India, these incidents have occurred within the confined environment of residential lifts. In order to address this pressing issue, this paper proposes an innovative solution: implementing an image classification-based identification system. In this study, ten distinct animal classes are classified using the Animals-10 dataset. In order to implement this idea, Convolutional Neural Networks (CNN) and pre-trained architectures like ResNet50 and EfficientNetB7 have been used. Improved results were achieved by fine-tuning these models. The metric used for evaluation was accuracy, ensuring the highest level of improvement. This work achieved an accuracy of 81.65% using CNN and an accuracy of 93.53% using ResNet50. However, we achieved the best results using the EfficientNetB7 model and by fine-tuning it further. The maximum test accuracy obtained is 98.52%. To demonstrate the effectiveness of the work, a comparative study with the previous work is included.
 
-## Contributions of Work
+## Contributions 
 
 1. The team has proposed a customised CNN model and a transfer-learning
 approach like ResNet50 and EfficientNetB7 for classifying images of animals in
@@ -59,15 +54,11 @@ of animals (pets) and humans in a confined residential area. A comparative study
 comprising the latest previous works has been conducted to show the effectiveness
 of the work.
 
-### Installation
+### Literature Review
 
-Install `themer` from npm with your JavaScript package manager of choice.
-
-```sh
-npm install themer
-```
-
-`themer` can also be installed globally. Or if you prefer not to install it at all, [it can be used with `npx`](#example-workflow-npx).
+<div align="center">
+  <img src="Literaurereview.png" width="400" alt="Literaturereview" />
+</div>
 
 ### Usage
 
