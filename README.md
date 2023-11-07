@@ -119,7 +119,56 @@ larger structures, improves the effectiveness of research and development. Furth
   <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/blob/main/EfficientNet.png" width="400" alt="Literaturereview" />
 </div>
 
+# Results
+To enhance elevator safety for pets, we employed CNN, ResNet50, and EfficientNetB7 architectures for animal classification. We optimized resource usage with diverse training epochs and early stopping. Our evaluation focused on accuracy, precision, recall, and F1 score, employing a range of training epochs and resource-saving techniques.
+## Convolutional Neural Network (CNN) Results
+The Training Accuracy and Validation Accuracy of our CNN model are shown in figure given below.The CNN model achieved a maximum training accuracy of 99.61% and a maximum validation accuracy of 81.65%. The training loss was 0.0152, while the validation loss was 0.7316. These results indicate that the CNN model can classify animals to some extent. To assess its performance, various metrics were used, and the dataset was split into a 70:20:10 ratio for training, validation, and testing, respectively.
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure10a_page-0001.jpg?raw=true" width="300" height="auto">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure10b_page-0001.jpg" width="300" height="auto">
+</div>
+The confusion matrix is presented in Fig below. The confusion matrix shows how well our models perform in classifying data across ten different animal classes. In order to analyse the model’s efficacy, it offers a thorough perspective of true positives, true negatives, false positives, and false negatives.It illustrates that the proposed CNN model accurately identified 830 pictures of cane out of 969 pictures of cane giving us an accuracy of approximately 86% in the class of cane.
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure11_page-0001.jpg" width="300" height="auto">
+</div>
 
+## ResNet 50 Results
+The training accuracy and validation accuracy of our ResNet50 Model are shown in Fig. below . It can be noticed that the highest training accuracy we achieved was 93.86 and the highest validation accuracy obtained was 93.53. These results show that our ResNet50 model can classify animals better than our CNN model.ResNet50, a powerful deep learning architecture, has shown remarkable performance in various computer vision tasks. Its depth and skip connections enable effective learning of complex patterns and contribute to better feature representation, making it anexcellent choice for image classification tasks. The images were resized to 224 x 224 and rescaled to tranform each pixel value to the range of [0-1].
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure12a_page-0001.jpg" width="300" height="auto">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure12b_page-0001.jpg" width="300" height="auto">
+</div>
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure13_page-0001.jpg" width="300" height="auto">
+</div>
+As observable in confusion matrix above, the ResNet50 pre-trained model correctly identified 457 out of 487 pictures of cane. This is a significant improvement on the proposed CNN model as it gives us an accuracy of approximately 93.53%. In the Confusion Matrix of our ResNet50 model, it is identifiable that there have been very few misidentifications of the animals and hence this model has worked its way to much better results.
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure12a_page-0001.jpg" width="300" height="auto">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure12b_page-0001.jpg" width="300" height="auto">
+</div>
+
+# EfficientNetB7 Results
+Our Model has achieved an accuracy of d an accuracy of 98.52%. Observe the trainiing accuracy and loss before fine-tuning in Fig. below. Observe the training accuracy and loss after fine-tuning in fig below. In the EfficientNetB7 model proposed a batch size of 32 was used along with epochs set to 25. The input shape was 224 x 224 x 3, and the output layer comprises 10 nodes, tailored to accommodate the classification of 10 distinct classes. These hyperparameters have been thoughtfully selected to achieve an optimal balance between model performance and computational efficiency.<br>
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure14a_page-0001.jpg" width="300" height="auto">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure14b_page-0001.jpg" width="300" height="auto">
+</div>
+<br>
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure15a_page-0001.jpg" width="300" height="auto">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure15b_page-0001.jpg" width="300" height="auto">
+</div>
+<br>
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure16_page-0001.jpg" width="300" height="auto">
+</div>
+As observable in confusion Matrix, our proposed model of EfficientNetB7 correctly identifies 363 out of 367 pictures of cane which amounts to approximately 99% accuracy. Furthermore, it identifies 235 out of 236 pictures of gallina representing 99.6% accuracy. Thus, we can notice a huge improvement from our previous CNN and ResNet models. As visible in the confusion matrix, there are very limited misrepresentations by the EfficientNetB7 model.
+<br><br>
+Hence, we can observe the comparison between the models:-
+<div align="center">
+ <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/model.png" width="300" height="auto">
+
+</div>
 ### Connect with me!
 
 - ⭐️ Star [`FieryDeveloper` on GitHub]([https://github.com/themerdev/themer](https://github.com/FieryDeveloper))
