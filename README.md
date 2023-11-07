@@ -2,9 +2,7 @@
 We address the alarming rise of animal-inflicted harm in residential areas, proposing an image classification-based identification system for enhanced safety.  The research highlights the urgent need for improved safety measures, especially in residential lifts, to protect children and the elderly from stray animal attacks.
 
 <div align="center">
-        <p>
                         <iframe src="animated-svg.html" width="100%" height="400"></iframe>
-        </p>
 </div>
 
 # themer ![GitHub Workflow Status (main branch)](https://img.shields.io/github/actions/workflow/status/themerdev/themer/main.yml?branch=main) [![Follow on Mastodon](https://img.shields.io/mastodon/follow/109767516017513032?domain=https%3A%2F%2Ffosstodon.org)](https://twitter.com/intent/user?screen_name=themerdev) [![Join the newsletter](https://img.shields.io/badge/newsletter-join-brightgreen)](https://themer.dev/join)
