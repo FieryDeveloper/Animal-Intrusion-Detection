@@ -363,7 +363,7 @@ export default template;
 To enhance elevator safety for pets, we employed CNN, ResNet50, and EfficientNetB7 architectures for animal classification. We optimized resource usage with diverse training epochs and early stopping. Our evaluation focused on accuracy, precision, recall, and F1 score, employing a range of training epochs and resource-saving techniques.
 ## Convolutional Neural Network (CNN) Result
 The Training Accuracy and Validation Accuracy of our CNN model are shown in figure given below.The CNN model achieved a maximum training accuracy of 99.61% and a maximum validation accuracy of 81.65%. The training loss was 0.0152, while the validation loss was 0.7316. These results indicate that the CNN model can classify animals to some extent. To assess its performance, various metrics were used, and the dataset was split into a 70:20:10 ratio for training, validation, and testing, respectively.
-<div>
+<div align="center">
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure10a_page-0001.jpg?raw=true" width="300" height="auto">
  <img src="https://github.com/am-1145/Animal-Intrusion-Detection/blob/main/Figure10b_page-0001.jpg" width="300" height="auto">
 </div>
