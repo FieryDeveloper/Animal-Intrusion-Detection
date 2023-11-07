@@ -5,7 +5,7 @@ We address the alarming rise of animal-inflicted harm in residential areas, prop
 
 #  Representation of Display Panel using HCI Principle.
 <div align="center">
-  <img src="https://github.com/FieryDeveloper/Animal-Intrusion-Detection/assets/96623227/5a703e33-ecd0-4540-9215-3d10b1ce858c" width="400" height="400">
+  <img src="cctv.svg" width="400" height="400">
 </div>
 
 
